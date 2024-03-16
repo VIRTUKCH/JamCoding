@@ -1,5 +1,33 @@
-list_a = [1, 2, 3, 4, 5] # 리스트는 괄호를 이용해서 선언합니다.
-list_b = [6, 7, 8, 9, 10]
-print(list_a) # 결과를 확인해 보자.
-print(list_b) # 결과를 확인해 보자.
-print(list_a + list_b) # 결과를 확인해 보자.
+# 1. 별 넣을 자리 만들기
+star = ""
+
+# 2. 반복하면서 별 넣기
+for _ in range (10):
+    star = star + "*"
+    
+print(star)
+
+
+'''
+[문제]
+1. n을 입력 받아서
+2. 별을 n개 출력하기
+
+ex) 5 -> *****
+ex) 3 -> ***
+
+'''
+
+
+
+
+
+
+
+
+
+
+'''
+for _ in range (3):
+star = star + "\n"
+'''
