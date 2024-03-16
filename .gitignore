@@ -7,5 +7,6 @@
 잼코딩_수업_일정표.xlsx
 
 .DS_Store
+*.DS_Store
 
 main.py
