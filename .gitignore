@@ -1,5 +1,7 @@
 *.txt
 
+main.py
+
 /1)방법론/학습자_분석
 
 잼코딩_수업_일정표.xlsx
@@ -8,5 +10,3 @@
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
-
-main.py
