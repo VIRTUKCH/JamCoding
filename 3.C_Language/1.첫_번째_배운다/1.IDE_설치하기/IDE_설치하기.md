@@ -1,4 +1,4 @@
-# 0. IDE(Integrated Development Environment, Eclipse)
+# 1. IDE(Integrated Development Environment, Eclipse)
 
 ## [목차]
 #### 1. IDE가 뭘까?
