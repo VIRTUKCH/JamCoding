@@ -1,0 +1,26 @@
+
+“
+java:S1192"}Define a constant instead of duplicating this literal "============================================================" 4 times.(™ŸÚ•
+0
+java:S1220""Move this file to a named package.
+[
+java:S2184R"@Cast one of the operands of this integer division to a "double".(”‹óıÿÿÿÿ
+V
+java:S2184_"@Cast one of the operands of this integer division to a "double".(¹¼–Ğ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ò¬ø©ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•
+@	java:S106"+Replace this use of System.out by a logger.(ÿŸÏÅ
+@	java:S106"+Replace this use of System.out by a logger.(‘èµ¾
+@	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•
+E	java:S106"+Replace this use of System.out by a logger.(ÔË†¾øÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(¡­™üÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(„’¤ç
+@	java:S106O"+Replace this use of System.out by a logger.(™ŸÚ•
+@	java:S106P"+Replace this use of System.out by a logger.(¹Ì¢Û
+E	java:S106Q"+Replace this use of System.out by a logger.(Â·¹üÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(”‹óıÿÿÿÿ
+@	java:S106S"+Replace this use of System.out by a logger.(™ŸÚ•
+E	java:S106Y"+Replace this use of System.out by a logger.(—¼¿”ıÿÿÿÿ
+@	java:S106_"+Replace this use of System.out by a logger.(¹¼–Ğ
