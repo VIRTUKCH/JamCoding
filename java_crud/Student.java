@@ -1,4 +1,4 @@
-package jamcoding;
+package java_crud;
 
 public class Student {
     private String schoolName;  // 학교 이름

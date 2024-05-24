@@ -1,9 +1,9 @@
-package jamcoding;
+package java_crud;
 
 public class StudentCreate {
-    private static StudentManagement sm;
+    private StudentManagement sm;
 
-    public static void main(String[] args) {
+    public void create() {
         Student kbj = new Student("정광고등학교", "강병제", 17, "대단히 까붊;;", "10801");
         Student jt = new Student("금호고등학교", "김채호", 24, "대단히 멋있음", "20194397");
         Student sjg = new Student("하버드유치원", "신짱구", 5, "못 말림", "개7");
@@ -14,5 +14,10 @@ public class StudentCreate {
         sm.addStudent(sjg);
 
         sm.viewAllStudents();
+    }
+
+    public static void main(String[] args) {
+        StudentCreate sc = new StudentCreate();
+        sc.create();
     }
 }

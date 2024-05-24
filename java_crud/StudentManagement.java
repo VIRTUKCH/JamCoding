@@ -1,4 +1,4 @@
-package jamcoding;
+package java_crud;
 
 import java.util.ArrayList;
 import java.util.List;
