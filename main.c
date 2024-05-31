@@ -1,5 +1,22 @@
 #include <stdio.h>
-int main()
+int main() {
+    // 각 학생들의 국어, 수학 점수 합 구하기
+
+    // 1. 배열 선언하기
+
+    // 2. 배열에 올바른 값 넣어 두기
+
+    // 3. 배열의 값 이용해서, 결괏값 계산하기
+
+    // 4. 변수에 결괏값 넣기
+    
+    // 5. 결괏값 출력하기
+
+    return 0;
+}
+
+
+/*
 {
     int intValue = 0;
     printf("%s", "정수를 입력하세요 : ");
@@ -25,3 +42,4 @@ int main()
     printf("문자열 출력 결과 : %s\n", charArrayValue);
     fflush(stdin);
 }
+*/
