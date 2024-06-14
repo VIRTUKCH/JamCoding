@@ -22,4 +22,4 @@ for i in range(100):
     if(is_prime(i) == True):
         list.append(i)
 result = calculate_average(list)
-print(result)
+print(result)adsfasdfasdfs
