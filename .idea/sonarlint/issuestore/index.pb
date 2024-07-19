@@ -54,3 +54,5 @@ P
  java_crud/StudentManagement.java,c/8/c8707953940d3dd046c964ad7060e178efbbf956
 ;
 .gitmessage,d/b/db8bf07a93e66479f850e914f67c929b2666e4a1
+c
+33_C_Language/1.IDE_설치하기/IDE_설치하기.md,0/b/0b8347ccd57317657cdd92722d815d5b1722a4bf
