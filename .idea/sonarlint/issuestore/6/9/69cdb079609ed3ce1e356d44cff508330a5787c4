@@ -1,26 +1,24 @@
 
+¹
+java:S1192"}Define a constant instead of duplicating this literal "============================================================" 4 times.(™ŸÚ•J$231aa4a7-89ea-488e-8b29-bff46798a811
+
+java:S2184R"@Cast one of the operands of this integer division to a "double".(”‹óıÿÿÿÿJ$f3ed5266-8ea9-4440-b631-27c8771b746a
+|
+java:S2184_"@Cast one of the operands of this integer division to a "double".(¹¼–ĞJ$a4bd68fc-e96d-44c0-ad1f-7619848c6029
 “
-java:S1192"}Define a constant instead of duplicating this literal "============================================================" 4 times.(™ŸÚ•
-0
-java:S1220""Move this file to a named package.
-[
-java:S2184R"@Cast one of the operands of this integer division to a "double".(”‹óıÿÿÿÿ
-V
-java:S2184_"@Cast one of the operands of this integer division to a "double".(¹¼–Ğ
-m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ò¬ø©ùÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•
-@	java:S106"+Replace this use of System.out by a logger.(ÿŸÏÅ
-@	java:S106"+Replace this use of System.out by a logger.(‘èµ¾
-@	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•
-E	java:S106"+Replace this use of System.out by a logger.(ÔË†¾øÿÿÿÿ
-E	java:S106#"+Replace this use of System.out by a logger.(¡­™üÿÿÿÿ
-Q	java:S1251"<This block of commented-out lines of code should be removed.(„’¤ç
-@	java:S106O"+Replace this use of System.out by a logger.(™ŸÚ•
-@	java:S106P"+Replace this use of System.out by a logger.(¹Ì¢Û
-E	java:S106Q"+Replace this use of System.out by a logger.(Â·¹üÿÿÿÿ
-E	java:S106R"+Replace this use of System.out by a logger.(”‹óıÿÿÿÿ
-@	java:S106S"+Replace this use of System.out by a logger.(™ŸÚ•
-E	java:S106Y"+Replace this use of System.out by a logger.(—¼¿”ıÿÿÿÿ
-@	java:S106_"+Replace this use of System.out by a logger.(¹¼–Ğ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙØ¤ŞıÿÿÿÿJ$134f87f2-4f4f-4ee1-96cc-792646b72948
+k	java:S106"+Replace this use of System.out by a logger.(Ò¬ø©ùÿÿÿÿJ$5498bc0f-c4c4-46ff-b84a-1f3a525d53db
+f	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•J$1e83dd0a-c82b-4e8b-a2f7-c252932e9eb5
+f	java:S106"+Replace this use of System.out by a logger.(ÿŸÏÅJ$6c7b1657-2665-4bfc-a4b7-d7c284a8ec2a
+f	java:S106"+Replace this use of System.out by a logger.(‘èµ¾J$f601a69a-ebd1-4735-84bb-f19287a80dff
+f	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•J$fc484f4a-8034-4446-8343-46e22fb24db1
+k	java:S106"+Replace this use of System.out by a logger.(ÔË†¾øÿÿÿÿJ$6cf72253-f04c-4a35-bb7a-eb153b62da6e
+k	java:S106#"+Replace this use of System.out by a logger.(¡­™üÿÿÿÿJ$cf3d630e-b841-4430-8906-788eb8afb10b
+w	java:S1251"<This block of commented-out lines of code should be removed.(„’¤çJ$f980ed5a-2aee-4fc6-9b57-1d2b6c8bb067
+f	java:S106O"+Replace this use of System.out by a logger.(™ŸÚ•J$ffba85a4-f9ba-42b6-b4f3-041fb0e91a5b
+f	java:S106P"+Replace this use of System.out by a logger.(¹Ì¢ÛJ$15f091b1-b19e-4ec4-b567-e842b92a32ce
+k	java:S106Q"+Replace this use of System.out by a logger.(Â·¹üÿÿÿÿJ$302649db-6e99-4143-b533-40500cfffd88
+k	java:S106R"+Replace this use of System.out by a logger.(”‹óıÿÿÿÿJ$cf967270-17f2-461a-9a0f-6b3fa12b155e
+f	java:S106S"+Replace this use of System.out by a logger.(™ŸÚ•J$783cf4c0-9541-45cf-934a-41ffbf38d09d
+k	java:S106Y"+Replace this use of System.out by a logger.(—¼¿”ıÿÿÿÿJ$b731e279-e4d9-4748-b917-80c67972fa2c
+f	java:S106_"+Replace this use of System.out by a logger.(¹¼–ĞJ$f31a1ee5-0f92-497b-945d-d588e31c6ec7

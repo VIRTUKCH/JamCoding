@@ -1,5 +1,7 @@
 /비공개_폴더
 
+.idea/**
+
 *.txt
 
 main.py
