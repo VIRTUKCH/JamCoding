@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Array {
     public static void main(String[] args) throws Exception {
         int[][] scores = new int[5][3]; // 다섯 명의 학생들의 국어, 수학, 영어 점수를 저장하는 2차원 배열
 
