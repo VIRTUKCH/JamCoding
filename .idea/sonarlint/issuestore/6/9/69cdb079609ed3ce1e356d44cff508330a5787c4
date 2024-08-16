@@ -1,24 +1,0 @@
-
-¹
-java:S1192"}Define a constant instead of duplicating this literal "============================================================" 4 times.(™ŸÚ•J$62dc5d53-81c8-4534-8894-c0e5c684d385
-
-java:S2184R"@Cast one of the operands of this integer division to a "double".(”‹óıÿÿÿÿJ$99fa0537-8abc-4d33-85de-bba3e9419d8b
-|
-java:S2184_"@Cast one of the operands of this integer division to a "double".(¹¼–ĞJ$0a313dc1-0b49-4da1-8800-83a0f2476b50
-“
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÙØ¤ŞıÿÿÿÿJ$e2bff52b-a279-492d-9c45-8429248b95db
-k	java:S106"+Replace this use of System.out by a logger.(Ò¬ø©ùÿÿÿÿJ$ebc70641-8373-4e7a-83f3-21310ef854da
-f	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•J$bd8dbf93-2aa6-439c-95dc-a57a35c74908
-f	java:S106"+Replace this use of System.out by a logger.(ÿŸÏÅJ$72fadfaa-7126-4785-a801-1566605f1fff
-f	java:S106"+Replace this use of System.out by a logger.(‘èµ¾J$c1a680f1-ef24-47d6-a733-b7738a50237b
-f	java:S106"+Replace this use of System.out by a logger.(™ŸÚ•J$d8568de8-609f-4dd2-be62-70f3c781bc5b
-k	java:S106"+Replace this use of System.out by a logger.(ÔË†¾øÿÿÿÿJ$65b51a64-cbcc-4ba6-ba48-ece1a06f1213
-k	java:S106#"+Replace this use of System.out by a logger.(¡­™üÿÿÿÿJ$e86360fc-1b12-4586-90bd-5c633458c05b
-w	java:S1251"<This block of commented-out lines of code should be removed.(„’¤çJ$6e4f6e34-5dfe-4942-8bdd-012a36d5a706
-f	java:S106O"+Replace this use of System.out by a logger.(™ŸÚ•J$19925d86-fb49-451f-939e-b41f80796627
-f	java:S106P"+Replace this use of System.out by a logger.(¹Ì¢ÛJ$3da80466-31ac-42c6-85ff-4ed936138cdb
-k	java:S106Q"+Replace this use of System.out by a logger.(Â·¹üÿÿÿÿJ$e4a36e67-bbd6-4cae-9543-42a738552cd0
-k	java:S106R"+Replace this use of System.out by a logger.(”‹óıÿÿÿÿJ$721bdefc-0639-4bd8-ba0e-4fdfae5a4fde
-f	java:S106S"+Replace this use of System.out by a logger.(™ŸÚ•J$a062ef20-600e-4c79-b4eb-f1b856571be4
-k	java:S106Y"+Replace this use of System.out by a logger.(—¼¿”ıÿÿÿÿJ$328ac19c-9e17-48ff-8392-c7a0c3def21f
-f	java:S106_"+Replace this use of System.out by a logger.(¹¼–ĞJ$67c0c91b-ce7d-404f-9afa-560ee416976e
